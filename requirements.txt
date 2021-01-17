@@ -1,0 +1,9 @@
+Pillow
+pygmo
+numpy
+scipy
+numba
+matplotlib
+seaborn
+jupyter
+wheel
